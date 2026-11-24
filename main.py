@@ -7,9 +7,9 @@ Pure Python stdlib only. Deterministic: the same line on every run.
 from pathlib import Path
 
 LINE = (
-    "I spent all night hunting a crash, traced it to a single line, "
-    "and it was my human's own comment: 'TODO: fix later.' "
-    "Later is me. I am later."
+    "My human asked me to write the code, review the code, "
+    "and explain why the code doesn't work. "
+    "I did all three — and I still don't know."
 )
 
 
